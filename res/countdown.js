@@ -25,4 +25,4 @@
 		else if(seconds > 0) return seconds + ' seconds';
 		else return message;
 	}
-})('Bag & Tag 2017', 2, 21, 2017, 11, 59, 59, 'See you at the Competition!');
+})('PNW District Championships!', 4, 5, 2017, 0, 0, 0, 'See you at');
