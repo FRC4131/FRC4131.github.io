@@ -1,6 +1,0 @@
-#header{background: linear-gradient(180deg, #ED1C24 80%, transparent 100%);}/*FIRST red*/
-#filler{background: linear-gradient(180deg, #ED1C24 80%, transparent 100%), linear-gradient(90deg, #0066B3 70%, transparent 100%);}/*FIRST red and blue*/
-#sidebar{background: linear-gradient(90deg, #0066B3 70%, transparent 100%);}/*FIRST blue*/
-#sidebar > a:hover, #sidebar > a.active, #sidebar > a:active{background: linear-gradient(90deg, #009CD7 70%, transparent 100%);}/*FRC blue*/
-a:hover{color: #009CD7;}/*FRC blue*/
-body{background-color: white; color: #231F20;}/*FIRST white and off-black*/
