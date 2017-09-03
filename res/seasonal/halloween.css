@@ -1,5 +1,0 @@
-#header{background: linear-gradient(180deg, #FF7619 80%, transparent 100%);}
-#filler{background: linear-gradient(180deg, #FF7619 80%, transparent 100%), linear-gradient(90deg, #297C02 70%, transparent 100%);}
-#sidebar{background: linear-gradient(90deg, #297C02 70%, transparent 100%);}
-#sidebar > a:hover, #sidebar > a.active, #sidebar > a:active{background: linear-gradient(90deg, #7C9D14 70%, transparent 100%);}
-a:hover{color: #7C9D14;}

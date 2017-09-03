@@ -1,0 +1,14 @@
+#post-list > a.post {
+  color: inherit;
+}
+.post-title {
+  margin-bottom: 0;
+}
+.post-meta {
+  font-size: 1.5em;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #888;
+}
+
