@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: "metro";
-  src: url(https://www.matthew-oberg.github.io/res/Metro.otf);
+  src: url(https://www.frc4131.github.io/res/Metro.otf);
 }
 #header {
   position: fixed;
@@ -31,7 +31,7 @@
   transition: color 0.25s;
   text-decoration: none;
   font-family: "metro";
-  font-size: 35px;
+  font-size: 25px;
   line-height: 80px;
   margin-right: 20px;
 }
