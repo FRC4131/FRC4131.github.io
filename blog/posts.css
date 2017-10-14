@@ -1,8 +1,31 @@
+@font-face {
+  	font-family: 'metro';
+  	src: url(https://frc4131.github.io/res/fonts/Metro.eot),
+  	src: url(https://frc4131.github.io/res/fonts/Metro.otf),
+  	src: url(https://frc4131.github.io/res/fonts/Metro.svg),
+  	src: url(https://frc4131.github.io/res/fonts/Metro.tff),
+  	src: url(https://frc4131.github.io/res/fonts/Metro.woff),
+  	src: url(https://frc4131.github.io/res/fonts/Metro.woff2);
+  	font-weight: normal;
+  	font-style: normal;
+
+    font-family: 'khmer';
+  	src: url(https://frc4131.github.io/res/fonts/KhmerUI.eot),
+  	src: url(https://frc4131.github.io/res/fonts/KhmerUI.otf),
+  	src: url(https://frc4131.github.io/res/fonts/KhmerUI.svg),
+  	src: url(https://frc4131.github.io/res/fonts/KhmerUI.tff),
+  	src: url(https://frc4131.github.io/res/fonts/KhmerUI.woff),
+  	src: url(https://frc4131.github.io/res/fonts/KhmerUI.woff2);
+  	font-weight: normal;
+  	font-style: normal;
+}
+
 #post-list > a.post {
   color: inherit;
 }
 .post-title {
   margin-bottom: 0;
+  font-family: 'metro';
 }
 .post-meta {
   font-size: 1.5em;
@@ -10,5 +33,5 @@
   margin-top: 0;
   margin-bottom: 0;
   color: #888;
+  font-family: 'khmer';
 }
-
