@@ -1,8 +1,11 @@
 @font-face {
 	font-family: 'metro';
-	src: url(https://frc4131.github.io/res/fonts/metro-webfont.woff2) format('woff2'),
-			 url(https://frc4131.github.io/res/fonts/metro-webfont.woff) format('woff'),
-			 url(https://frc4131.github.io/res/fonts/metro-webfont.otf) format('opentype');
+	src: url(https://frc4131.github.io/res/fonts/Metro.eot),
+	src: url(https://frc4131.github.io/res/fonts/Metro.otf),
+	src: url(https://frc4131.github.io/res/fonts/Metro.svg),
+	src: url(https://frc4131.github.io/res/fonts/Metro.tff),
+	src: url(https://frc4131.github.io/res/fonts/Metro.woff),
+	src: url(https://frc4131.github.io/res/fonts/Metro.woff2); 
 	font-weight: normal;
 	font-style: normal;
 }
