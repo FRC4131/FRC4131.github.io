@@ -3,8 +3,12 @@
   padding: 0;
 }
 @font-face {
-  font-family: "metro";
-  src: url(https://www.frc4131.github.io/res/Metro.otf);
+  font-family: 'metro';
+	src: url(https://frc4131.github.io/res/fonts/metro-webfont.woff2) format('woff2'),
+			 url(https://frc4131.github.io/res/fonts/metro-webfont.woff) format('woff'),
+			 url(https://frc4131.github.io/res/fonts/metro-webfont.otf) format('opentype');
+	font-weight: normal;
+	font-style: normal;
 }
 #header {
   position: fixed;
@@ -30,7 +34,7 @@
   color: #33910c;
   transition: color 0.25s;
   text-decoration: none;
-  font-family: "metro";
+  font-family: 'metro';
   font-size: 30px;
   line-height: 80px;
   margin-right: 20px;
@@ -68,7 +72,7 @@
   top: 80px;
   left: 0;
   right: 0;
-  font-family: 'metro';
+  font-family: 'khmer';
 }
 .section {
   box-sizing: border-box;
@@ -77,4 +81,3 @@
   padding: 2em 10%;
   z-index: 1;
 }
-
