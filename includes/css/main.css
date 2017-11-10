@@ -5,3 +5,13 @@ body {
   height: 48px;
   width: 100%;
 }
+#navLinks a {
+  font-size: 42px;
+  color: #33910c;
+  text-align: left;
+  transition: 0.3s;
+}
+#navLinks a.hover {
+  font-size: 44px;
+  color: white;
+}
