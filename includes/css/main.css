@@ -6,14 +6,14 @@ body {
   width: 100%;
 }
 a.navLink {
-  font-size: 42px;
+  font-size: 30px;
   color: #33910c;
   text-align: left;
   transition: 0.3s;
   text-decoration: none;
 }
 a.navLink:hover {
-  font-size: 44px;
+  font-size: 32px;
   color: white;
   text-decoration: none;
 }
