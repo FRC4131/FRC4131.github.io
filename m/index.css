@@ -1,7 +1,0 @@
-#main-table {
-  width: 100%;
-}
-#main-table > tbody > tr > * {
-  height: 2em;
-}
-
