@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+#nav {
+  height: 48px;
+  width: 100%;
+}
+a.navLink {
+  font-size: 30px;
+  color: #33910c;
+  text-align: left;
+  transition: 0.3s;
+  text-decoration: none;
+}
+a.navLink:hover {
+  font-size: 32px;
+  color: white;
+  text-decoration: none;
+}
+.contentBox {
+  background-color: #011f4f;
+  width: 100%;
+  justify-content: center;
+}
+.sectionTitle {
+  color: #33910c;
+  text-align: center;
+}
+.sectionContent {
+  color: white;
+  text-align: left;
+}
+a.sectionLink {
+  color: white;
+  transition: 0.3s;
+  text-decoration: underline;
+}
+a.sectionLink:hover {
+  color: #1a3089;
+  text-decoration: underline;
+  size: 105%;
+}
