@@ -5,14 +5,14 @@ body {
   height: 48px;
   width: 100%;
 }
-#navLinks a {
+a.navLink {
   font-size: 42px;
   color: #33910c;
   text-align: left;
   transition: 0.3s;
   text-decoration: none;
 }
-#navLinks a:hover {
+a.navLink:hover {
   font-size: 44px;
   color: white;
   text-decoration: none;
