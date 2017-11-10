@@ -30,12 +30,12 @@ a.navLink:hover {
   color: white;
   text-align: left;
 }
-.sectionContent a {
+a.sectionLink {
   color: white;
   transition: 0.3s;
   text-decoration: underline;
 }
-.sectionContent a:hover {
+a.sectionLink:hover {
   color: #1a3089;
   text-decoration: underline;
   size: 105%;
