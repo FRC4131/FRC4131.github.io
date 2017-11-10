@@ -10,10 +10,12 @@ body {
   color: #33910c;
   text-align: left;
   transition: 0.3s;
+  text-decoration: none;
 }
-#navLinks a.hover {
+#navLinks a:hover {
   font-size: 44px;
   color: white;
+  text-decoration: none;
 }
 .contentBox {
   background-color: #011f4f;
@@ -36,7 +38,7 @@ body {
   transition: 0.3s;
   text-decoration: underline;
 }
-.sectionContent a.hover {
+.sectionContent a:hover {
   color: #1a3089;
   text-decoration: underline;
   size: 105%;
