@@ -20,10 +20,7 @@ body {
 .contentBox {
   background-color: #011f4f;
   width: 100%;
-  height: 10px;
-  display: flex;
   justify-content: center;
-  flex-direction: column;
 }
 .sectionTitle {
   color: #33910c;
