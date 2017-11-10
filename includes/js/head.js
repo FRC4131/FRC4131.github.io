@@ -20,4 +20,5 @@ document.write("
   <meta name=\"msapplication-square150x150logo\" content=\"https://https:/frc4131.github.io/icons/icon150.png\"\>
   <meta name=\"msapplication-wide310x150logo\" content=\"https://https:/frc4131.github.io/icons/icon310x150.png\"\>
   <meta name=\"msapplication-square310x310logo\" content=\"https://https:/frc4131.github.io/icons/icon310.png\"\>
+  <link rel=\"stylesheet\" type=\"text/css\" href=\"https://frc4131.github.io/includes/css/main.css\"\>
 ")
