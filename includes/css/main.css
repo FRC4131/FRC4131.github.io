@@ -15,7 +15,7 @@ body {
   text-align: right;
 }
 a.navLink {
-  font-size: 32px;
+  font-size: 24px;
   color: #33910c;
   text-align: right;
   transition: 0.3s;
@@ -23,7 +23,7 @@ a.navLink {
   font-family: metro;
 }
 a.navLink:hover {
-  font-size: 34px;
+  font-size: 26px;
   color: white;
   text-decoration: none;
   font-family: metro;
