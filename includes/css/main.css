@@ -7,14 +7,14 @@ body {
   text-align: right;
 }
 a.navLink {
-  font-size: 36px;
+  font-size: 32px;
   color: #33910c;
   text-align: right;
   transition: 0.3s;
   text-decoration: none;
 }
 a.navLink:hover {
-  font-size: 38px;
+  font-size: 34px;
   color: white;
   text-decoration: none;
 }
