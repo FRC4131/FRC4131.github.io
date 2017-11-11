@@ -2,13 +2,13 @@ body {
   background-color: black;
 }
 #nav {
-  height: 48px;
+  height: 60px;
   width: 100%;
 }
 a.navLink {
   font-size: 30px;
   color: #33910c;
-  text-align: left;
+  text-align: right;
   transition: 0.3s;
   text-decoration: none;
 }
@@ -39,4 +39,8 @@ a.sectionLink:hover {
   color: #1a3089;
   text-decoration: underline;
   size: 105%;
+}
+#error {
+  text-align: center;
+  color: white;
 }
