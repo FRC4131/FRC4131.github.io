@@ -1,3 +1,10 @@
+@@font-face {
+  font-family: metro;
+  src: url(https://frc4131.github.io/includes/fonts/Metro.otf);
+
+  font-family: khmer;
+  src: url(https://frc4131.github.io/includes/fonts/KhmerUI.otf);
+}
 body {
   background-color: black;
 }
@@ -7,16 +14,18 @@ body {
   text-align: right;
 }
 a.navLink {
-  font-size: 36px;
+  font-size: 32px;
   color: #33910c;
   text-align: right;
   transition: 0.3s;
   text-decoration: none;
+  font-family: metro;
 }
 a.navLink:hover {
-  font-size: 38px;
+  font-size: 34px;
   color: white;
   text-decoration: none;
+  font-family: metro;
 }
 .contentBox {
   background-color: black;
@@ -26,22 +35,27 @@ a.navLink:hover {
 .sectionTitle {
   color: #33910c;
   text-align: center;
+  font-family: metro;
 }
 .sectionContent {
   color: white;
   text-align: left;
+  font-family: khmer;
 }
 a.sectionLink {
   color: white;
   transition: 0.3s;
   text-decoration: underline;
+  font-family: khmer;
 }
 a.sectionLink:hover {
   color: #1a3089;
   text-decoration: underline;
   size: 105%;
+  font-family: khmer;
 }
 #error {
   text-align: center;
   color: white;
+  font-family: khmer;
 }
