@@ -12,12 +12,11 @@ body {
 #nav {
   height: 60px;
   width: 100%;
-  text-align: right;
 }
 a.navLink {
   font-size: 24px;
   color: #33910c;
-  text-align: right;
+  text-align: center;
   transition: 0.3s;
   text-decoration: none;
   font-family: metro;
