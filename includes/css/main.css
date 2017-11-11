@@ -16,7 +16,7 @@ body {
 a.navLink {
   font-size: 24px;
   color: #33910c;
-  text-align: center;
+  text-align: left;
   transition: 0.3s;
   text-decoration: none;
   font-family: metro;
